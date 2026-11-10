@@ -1,5 +1,7 @@
 # Snakes & Ladders (Godot 4.7.2)
 
+##AI DISCLOSURE: EVERYTHING INCLUDING THIS README, EXCLUDING THIS LINE WAS CREATED BY CLAUDE CODE.
+
 You (red) against 1-3 CPU players. All graphics are drawn in code, so there are no assets to import.
 
 ## Run
